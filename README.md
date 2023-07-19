@@ -7,9 +7,9 @@ XpressCart is a secure and user-friendly e-commerce website with essential featu
 
 ## Screenshots
 
-![App Screenshot](![image](https://github.com/Vanraj8169/XpressCart/assets/87256781/45ac260d-78b8-4fed-ad03-59512e00d1c3)
-)
 
+
+![ss](https://github.com/Vanraj8169/XpressCart/assets/87256781/1e549cc2-1697-4b8f-8417-e056aff55cf6)
 
 
 ## Features
